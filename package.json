@@ -1,0 +1,13 @@
+{
+  "name": "barrelcrudecoin-wallet-app",
+  "version": "1.0.0",
+  "description": "An Electron.js app to interact with the BarrelCrudeCoin wallet",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "bitcore-lib": "^0.15.0",
+    "electron": "^9.1.0"
+  }
+}
